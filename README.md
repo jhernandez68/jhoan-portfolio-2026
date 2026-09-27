@@ -23,4 +23,4 @@ Abre http://localhost:8080. También puedes abrir `index.html` directamente.
 
 Edita el contenido en `index.html` y los colores en las variables de `styles.css`. Se puede servir con cualquier hosting estático. No contiene backend ni necesita compilación. Los enlaces de contacto abren el correo y los perfiles indicados; los proyectos apuntan a sus repositorios y demo existentes.
 
-Mantener este repositorio privado. No se ha configurado publicación automática ni modificado el repositorio `portfolio`.
+Publicado con GitHub Pages desde la raíz de la rama `main`. El repositorio original `portfolio` permanece sin modificaciones.
